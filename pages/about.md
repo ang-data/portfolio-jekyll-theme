@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# About me
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Hi, My name is Nyukshan and I am currently living in Germany. I came here 10 yrears ago, and completed my Bachelors and Masters Degree in Geosciences. I am currently working in a civil, environmental industry. My recent work involved conducting environemental due diligence for construction projects and writing up reports to facilate better decision making for the clients. I am interested in moving to a more management role and am considering an MBA because I am interested in this area.  In my free time, I like to read travel around and do photography. 
